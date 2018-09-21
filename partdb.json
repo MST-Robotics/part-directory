@@ -2,7 +2,7 @@
 	"cats": {
 		"HW": {
 			"desc": "mechanical hardware",
-			"num_parts": 0
+			"num_parts": 1
 		},
 		"PRT": {
 			"desc": "mechanical part",
@@ -17,6 +17,13 @@
 			"num_parts": 0
 		}
 	},
-	"parts": {
+	"num_sets": 0,
+	"entries": {
+		"1": {
+			"id": "HW1",
+			"nick": "M3_screw",
+			"desc": "screw that is 3mm diameter",
+			"rev": "1.0.0"
+		}
 	}
 }
