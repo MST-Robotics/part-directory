@@ -1,0 +1,22 @@
+{
+	"cats": {
+		"HW": {
+			"desc": "mechanical hardware",
+			"num_parts": 0
+		},
+		"PRT": {
+			"desc": "mechanical part",
+			"num_parts": 0
+		},
+		"CMP": {
+			"desc": "electrical component",
+			"num_parts": 0
+		},
+		"BRD": {
+			"desc": "electrical PCB",
+			"num_parts": 0
+		}
+	},
+	"parts": {
+	}
+}
